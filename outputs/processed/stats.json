@@ -1,0 +1,116 @@
+{
+  "project_count": 5335,
+  "entry_count": 488046,
+  "worker_count": 11865,
+  "entry_worker_count": 11865,
+  "known_quality_worker_count": 1653,
+  "unknown_quality_worker_count": 10212,
+  "winner_entry_count": 4616,
+  "finalist_entry_count": 4831,
+  "withdrawn_entry_count": 210582,
+  "missing_entry_time_count": 0,
+  "missing_project_time_count": 0,
+  "entry_time_min": "2008-05-22T18:54:28+00:00",
+  "entry_time_max": "2019-03-05T04:18:19.832924+00:00",
+  "project_without_entries_count": 60,
+  "entry_project_missing_project_file_count": 0,
+  "industry_count": 37,
+  "top_project_status": [
+    [
+      "completed",
+      5031
+    ],
+    [
+      "closed",
+      176
+    ],
+    [
+      "awarded",
+      128
+    ]
+  ],
+  "top_industries": [
+    [
+      "other",
+      1196
+    ],
+    [
+      "consulting-and-professional-services",
+      368
+    ],
+    [
+      "unknown",
+      364
+    ],
+    [
+      "real-estate-and-construction",
+      347
+    ],
+    [
+      "health-care-and-biotech",
+      336
+    ],
+    [
+      "software-and-information-technology",
+      311
+    ],
+    [
+      "food-and-beverage",
+      304
+    ],
+    [
+      "retail",
+      268
+    ],
+    [
+      "entertainment-and-sports",
+      227
+    ],
+    [
+      "financial-services",
+      186
+    ],
+    [
+      "advertising-and-marketing",
+      163
+    ],
+    [
+      "education-and-universities",
+      132
+    ],
+    [
+      "internet",
+      103
+    ],
+    [
+      "fashion",
+      97
+    ],
+    [
+      "community-non-profit",
+      92
+    ],
+    [
+      "publishing-and-media",
+      90
+    ],
+    [
+      "cosmetics-beauty",
+      70
+    ],
+    [
+      "legal",
+      63
+    ],
+    [
+      "automotive",
+      62
+    ],
+    [
+      "games-recreational",
+      54
+    ]
+  ],
+  "parse_error_count": 0,
+  "parse_errors_sample": []
+}

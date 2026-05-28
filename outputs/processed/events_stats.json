@@ -1,0 +1,17 @@
+{
+  "candidate_size": 20,
+  "seed": 42,
+  "train_ratio": 0.7,
+  "valid_ratio": 0.15,
+  "test_ratio": 0.15000000000000005,
+  "project_count": 5335,
+  "project_with_valid_window_count": 5331,
+  "entry_count_after_basic_filter": 488046,
+  "event_count": 418715,
+  "train_event_count": 272490,
+  "valid_event_count": 73207,
+  "test_event_count": 73018,
+  "skipped_insufficient_negatives": 69331,
+  "skipped_time_parse": 0,
+  "allow_fallback_negatives": false
+}
