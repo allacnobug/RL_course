@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Generated experiment artifacts.
+outputs/
+
+# Local virtual environments.
+.venv/
+venv/
+
+# Local editor files.
+.idea/
+.vscode/
+
